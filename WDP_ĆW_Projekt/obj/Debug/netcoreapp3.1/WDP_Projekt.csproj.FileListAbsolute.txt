@@ -1,0 +1,12 @@
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/bin/Debug/netcoreapp3.1/WDP_Projekt.dll
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/bin/Debug/netcoreapp3.1/WDP_Projekt.pdb
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.csprojAssemblyReference.cache
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.AssemblyInfoInputs.cache
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.AssemblyInfo.cs
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.csproj.CoreCompileInputs.cache
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.dll
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.pdb
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/bin/Debug/netcoreapp3.1/WDP_Projekt.deps.json
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/bin/Debug/netcoreapp3.1/WDP_Projekt.runtimeconfig.json
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/bin/Debug/netcoreapp3.1/WDP_Projekt.runtimeconfig.dev.json
+/Users/karolpetka/Desktop/WDP_ĆW_Projekt/WDP_ĆW_Projekt/obj/Debug/netcoreapp3.1/WDP_Projekt.genruntimeconfig.cache
